@@ -8,7 +8,7 @@
 
 ### 附加
 
-> 1. 一键部署 SS+V2Ray-plugin 到 [KubeSail](https://kubesail.com/template/kaixuan1115/ss-v2ray-plugin/)。
+> 1. 一键部署 SS+V2Ray-plugin 到 [KubeSail](kubesail.com/template/jinstory/ss-v2ray-plugin/)。
 
 ### 参考 
 *https://github.com/shadowsocks/v2ray-plugin*
